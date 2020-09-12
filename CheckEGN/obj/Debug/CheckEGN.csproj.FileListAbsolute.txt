@@ -1,0 +1,7 @@
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\bin\Debug\CheckEGN.exe.config
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\bin\Debug\CheckEGN.exe
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\bin\Debug\CheckEGN.pdb
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\obj\Debug\CheckEGN.csprojAssemblyReference.cache
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\obj\Debug\CheckEGN.csproj.CoreCompileInputs.cache
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\obj\Debug\CheckEGN.exe
+C:\Users\ivo\source\repos\CheckEGN\CheckEGN\obj\Debug\CheckEGN.pdb
